@@ -114,3 +114,13 @@ If you can't run the test command successfully, please follow the instruction be
 ```shell
 yarn install
 ```
+
+# Contract the Team
+
+| GitHub    | Email               | Wallet Address or ENS        |
+|-----------|---------------------|------------|
+| [CaraWang](https://github.com/CaraWang)  | cara4bear@gmail.com |carawang.eth|
+| [smilewilson1999](https://github.com/smilewilson1999) | smilewilson1999@gmail.com |      |
+|                 | dar7an@outlook.com        |      |
+|        |                           | 0xCB582862f3664722018f0c4432e9747cEE3546b6 |
+
